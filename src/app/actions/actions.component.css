@@ -1,0 +1,17 @@
+
+
+table{
+    width: 100%;
+}
+
+td{
+    margin: 5px;
+    padding: 10px;
+}
+
+th{
+    color: red;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: whitesmoke;
+}

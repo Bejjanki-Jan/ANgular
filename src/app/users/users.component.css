@@ -1,0 +1,43 @@
+table{
+    width: 100%;
+    height: auto;
+}
+
+th{
+    color: red;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: whitesmoke;
+}
+
+button{
+    margin-top: 10px;
+}
+
+.invalid-feedback{
+    background-color: rgb(233, 149, 149);
+    font-weight: bolder;
+    color: red;
+}
+.row{
+    padding: 10px;
+    border: 2px solid purple;
+    width: 150px;
+}
+
+.form-group{
+    padding: 10px;
+}
+
+.form-control{
+    padding: 10px;
+}
+label{
+margin-right: 10px;
+width: 100px;
+padding: 10px;
+}
+
+input{
+    width:100px;
+}
